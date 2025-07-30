@@ -1,0 +1,26 @@
+## Pattern based learning on leetcode problems
+
+There are few patterns 
+### How to Solve Problems by Watching Patterns on Leetcode
+
+1. **Identify the Pattern:**
+   - Read the problem carefully and try to relate it to a known pattern (e.g., sliding window, two pointers, binary search, dynamic programming, backtracking, etc.).
+   - Look for keywords or constraints that hint at a specific approach.
+
+2. **Review Similar Problems:**
+   - Search for problems with similar patterns on Leetcode.
+   - Study their solutions and understand the underlying logic.
+
+3. **Break Down the Problem:**
+   - Divide the problem into smaller parts that fit the identified pattern.
+   - Write pseudocode or outline the steps before coding.
+
+4. **Implement the Solution:**
+   - Apply the pattern to solve the problem.
+   - Test with sample inputs and edge cases.
+
+5. **Practice and Reflect:**
+   - Solve multiple problems of the same pattern to reinforce your understanding.
+   - Reflect on mistakes and optimize your approach.
+
+By consistently watching for patterns and practicing, you can solve Leetcode problems more efficiently and improve your problem-solving skills.
